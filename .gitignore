@@ -1,14 +1,13 @@
-### Maven ###
-target/
+### IntelliJ ###
 
-### Intellij ###
-# Covers JetBrains IDEs: IntelliJ
-
-## Directory-based project format:
+## Project directories:
 .idea/
 
-## File-based project format:
+## Project files:
 *.iml
+
+### Maven ###
+target/
 
 ## Plugin-specific files:
 
@@ -20,6 +19,8 @@ target/
 
 # Package Files #
 *.jar
+*.war
+*.ear
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+# VM crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

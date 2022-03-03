@@ -1,3 +1,0 @@
-fn test(a, b) = println(a + b);
-
-test("2", 1);
